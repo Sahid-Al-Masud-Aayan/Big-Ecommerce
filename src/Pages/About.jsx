@@ -10,10 +10,10 @@ const About = () => {
           About Us
         </h2>
         <p className="mt-4 text-lg leading-6 text-gray-600">
-          Welcome to [Your Store Name], your number one source for all things [product category].
+          Welcome to Cartix, your number one source for all stuffs.
           We're dedicated to giving you the best shopping experience, with a focus on customer service,
-          product quality, and uniqueness. Founded in [year], [Your Store Name] has come a long way from its beginnings.
-          We now serve customers all over [country/world] and are thrilled to be a part of the [e-commerce industry type] wing.
+          product quality, and uniqueness. Founded in 2021, Cartix has come a long way from its beginnings.
+          We now serve customers all over the world and are thrilled to be a part of the retailer wing.
         </p>
       </div>
 
@@ -22,7 +22,7 @@ const About = () => {
         <div className="bg-white shadow-lg rounded-lg p-6">
           <h3 className="text-xl font-bold text-gray-900">Our Mission</h3>
           <p className="mt-4 text-gray-600">
-            At [Your Store Name], we strive to provide our customers with the best online shopping experience possible.
+            At Cartix, we strive to provide our customers with the best online shopping experience possible.
             Our mission is to offer high-quality products at affordable prices, ensuring customer satisfaction every step of the way.
           </p>
         </div>
